@@ -13,7 +13,7 @@ Este repositorio se ira actualizando con los ejercicios que realizan en clase de
 - Para iniciar debes clonar este repositorio en tu equipo por medio del siguiente comando de git:
 
 ```
-git clone git@github.com:juanlandero/NivelacionJs.git
+git clone git@github.com:Dignal-Electronics/oit-2024-nivelacion-js.git
 ```
 
 - Cuando necesites actualizar con los nuevos ejercicio de la clase, usa el siguiente comando:
@@ -31,3 +31,10 @@ git pull --rebase origin master
 - Arreglos
 - Objetos
 - Desestructuración
+- Funciones
+- this
+- Funciones de flecha
+- Parámetros REST
+- Promesas
+- Async / Await
+- JSON

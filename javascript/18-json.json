@@ -1,0 +1,11 @@
+{
+    "nombre": "Juan Carlos",
+    "apellidos": "Landero",
+    "edad": 32,
+    "altura": 1.60,
+    "lenguajes": [
+        "javascript",
+        "C",
+        "Java"
+    ]
+}
