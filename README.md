@@ -38,3 +38,6 @@ git pull --rebase origin master
 - Promesas
 - Async / Await
 - JSON
+- Variables de entorno
+- Importación y Exportación
+- HTML y CSS
